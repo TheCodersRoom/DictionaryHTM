@@ -35,6 +35,7 @@ Interjection
 
 ## Example file (Word with one definition) 
 
+```
 <!DOCTYPE html>
 <html>
 <head> 
@@ -49,6 +50,6 @@ Interjection
 </div>
 </body>
 </html>
-
+```
 
 If the word you want to add is requested in an issue, leave a comment on the issue claiming that you are adding that word. This minimizes conflicts and time wasting.
